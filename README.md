@@ -2,9 +2,7 @@
 
 Some research that I did that was later published and formed my Bachelor's Thesis.
 
-Publication in process.
+Please cite as: 
 
-In the meantime, please cite as: 
-
-        Anirudh Nakra, Abhijeet Vats, Asok De "Design Of High Bandwidth Circularly Polarised Antipodal Vivaldi 
-        Array for 5G Applications" IEEE International Conference on Emerging Technologies (INCET) 2021
+        A. Nakra, A. Vats and A. De, "Design Of High Bandwidth Circularly Polarised Antipodal Vivaldi Array for 5G Applications," 
+        2021 2nd International Conference for Emerging Technology (INCET), 2021, pp. 1-4, doi: 10.1109/INCET51464.2021.9456438.
