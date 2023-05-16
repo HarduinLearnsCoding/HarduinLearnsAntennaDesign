@@ -1,4 +1,8 @@
-# HarduinLearnsAntennaDesigns
+# 5G Antenna Design - Research
+
+Contains CST files used to simulate all 3 parts of the cited paper.
+
+In addition, also contains hfss files to simulate some common antennas used for comparison.
 
 Some research that I did that was later published and formed my Bachelor's Thesis.
 
